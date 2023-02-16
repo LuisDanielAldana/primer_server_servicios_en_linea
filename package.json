@@ -1,0 +1,26 @@
+{
+  "name": "primer_server_servicios_en_linea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisDanielAldana/primer_server_servicios_en_linea.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisDanielAldana/primer_server_servicios_en_linea/issues"
+  },
+  "homepage": "https://github.com/LuisDanielAldana/primer_server_servicios_en_linea#readme",
+  "dependencies": {
+    "axios": "^1.3.3",
+    "express": "^4.18.2",
+    "fetch": "^1.1.0",
+    "nodemon": "^2.0.20"
+  }
+}
